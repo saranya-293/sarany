@@ -1,2 +1,4 @@
 # sarany
-this a training
+this is a training
+devops engineer
+date:august-4
